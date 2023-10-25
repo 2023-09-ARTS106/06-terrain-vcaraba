@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Terrain.prefab.2.unity
+    guid: 217034fca25dbfb49926a84b43430659
   m_configObjects: {}
